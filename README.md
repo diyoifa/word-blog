@@ -48,6 +48,8 @@ Supabase
 PostgresQl
 SSR (Server-Side Rendering) / CSR (Client-Side Rendering)
 
+#Desktop
+
 ![image](https://github.com/diyoifa/word-blog/assets/124792673/389a9f1e-6271-4c4d-9980-529aae22376f)
 
 ![image](https://github.com/diyoifa/word-blog/assets/124792673/31c33a33-8ad0-4758-a95d-e7850bbfe51b)
@@ -78,6 +80,51 @@ SSR (Server-Side Rendering) / CSR (Client-Side Rendering)
 ![image](https://github.com/diyoifa/word-blog/assets/124792673/67f99098-36cb-43c1-b5ed-236fc0adf8f8)
 
 ![image](https://github.com/diyoifa/word-blog/assets/124792673/6a2f7802-8cca-46e6-8c12-482ee0f81275)
+
+
+#movile
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/9dd08b08-1823-43a4-9721-d53d97703c0d)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/318e5dda-5a6e-484c-82d4-f720c313330d)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/a28105aa-2e23-422d-93c4-336fbc8af672)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/5372141c-4821-4985-a320-22d4c59815eb)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/ec811168-3db5-4c12-aa72-24e62cead91c)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/58f2cc11-63f5-4aec-a13a-f778339a9ce5)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/9d47e022-5d9b-4fbf-8863-b645efa55a8f)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/2181da7f-8afb-40e4-88f6-085ae448b0ca)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/3e19d7c9-5616-4d48-9b00-a56d4337be4e)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/a34aa7e3-1b1f-4e09-8ce9-f0508f069dff)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/a638d0d5-31f5-4f47-a0e8-d9b968da35e2)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/6aa0d157-dbe6-4342-9874-8a299c8e2a65)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/e141faba-b00a-4ad0-9149-4b33e82fcb97)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/ee07557f-0d80-49be-9dbd-065cca061f7d)
+
+![image](https://github.com/diyoifa/word-blog/assets/124792673/afc71e8a-6907-4a0e-b2c6-e98cd0179729)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
